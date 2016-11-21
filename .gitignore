@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gradle/
+.idea/
+Okhttp_Retrofit.iml
+app/app.iml
+app/proguard-rules.pro
+build/
+gradle/
+gradlew
+gradlew.bat
+app.iml
+proguard-rules.pro
+libs/
+okretrolib.iml
+okretrolib/build
